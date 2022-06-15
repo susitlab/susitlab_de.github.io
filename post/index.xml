@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News | SUSIT</title>
+    <link>https://susitlab.github.io/post/</link>
+      <atom:link href="https://susitlab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latest News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 23:53:49 +0800</lastBuildDate>
+    <image>
+      <url>https://susitlab.github.io/media/logo_hu2e8d585f6837eebc313fa8e1649a8547_602025_300x300_fit_lanczos_3.png</url>
+      <title>Latest News</title>
+      <link>https://susitlab.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>New Publications</title>
+      <link>https://susitlab.github.io/post/2022-05-01-new-publications/</link>
+      <pubDate>Sun, 01 May 2022 23:53:49 +0800</pubDate>
+      <guid>https://susitlab.github.io/post/2022-05-01-new-publications/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Xiran Cai&lt;/strong&gt; has published two chapters in the book “Bone Quantitative Ultrasound New Horizons”, reporting the latest development of resonant ultrasound spectroscopy for high damping solids and its application in measuring the anisotropic stiffness of hard tissue.&lt;/p&gt;
+&lt;p&gt;Details can be found following the &lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-030-91979-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New roles</title>
+      <link>https://susitlab.github.io/post/new-roles/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://susitlab.github.io/post/new-roles/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Hui Zhu&lt;/strong&gt; successfully defended her application of MS to PhD conversion.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Support</title>
+      <link>https://susitlab.github.io/post/support/</link>
+      <pubDate>Wed, 01 Dec 2021 09:51:59 +0800</pubDate>
+      <guid>https://susitlab.github.io/post/support/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Xiran Cai&lt;/strong&gt; received the support of “Shanghai Overseas Talent Program”.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Members</title>
+      <link>https://susitlab.github.io/post/new-members0/</link>
+      <pubDate>Wed, 01 Sep 2021 09:52:28 +0800</pubDate>
+      <guid>https://susitlab.github.io/post/new-members0/</guid>
+      <description>&lt;p&gt;SUSIT lab is officially open and welcomes 2 members (Master students), Gaofei Jin, Hui Zhu.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Members</title>
+      <link>https://susitlab.github.io/post/new-members/</link>
+      <pubDate>Wed, 01 Sep 2021 09:50:39 +0800</pubDate>
+      <guid>https://susitlab.github.io/post/new-members/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;SUSIT lab&lt;/strong&gt; welcomes 3 new members (Master students), Yifei Li, Shilong Cui, Bowei Yao.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Support</title>
+      <link>https://susitlab.github.io/post/support2/</link>
+      <pubDate>Thu, 01 Apr 2021 09:52:12 +0800</pubDate>
+      <guid>https://susitlab.github.io/post/support2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Xiran Cai&lt;/strong&gt; received a grant from “Shanghai Sailing Program”.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Members</title>
+      <link>https://susitlab.github.io/post/new-member/</link>
+      <pubDate>Tue, 01 Sep 2020 00:03:13 +0800</pubDate>
+      <guid>https://susitlab.github.io/post/new-member/</guid>
+      <description>&lt;p&gt;SUSIT lab welcomes 2 new members (Undergrads), Yiming Huang, Chenguang Wang.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

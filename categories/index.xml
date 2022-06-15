@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | SUSIT</title>
+    <link>https://susitlab.github.io/categories/</link>
+      <atom:link href="https://susitlab.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://susitlab.github.io/media/logo_hu2e8d585f6837eebc313fa8e1649a8547_602025_300x300_fit_lanczos_3.png</url>
+      <title>Categories</title>
+      <link>https://susitlab.github.io/categories/</link>
+    </image>
+    
+  </channel>
+</rss>
