@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>曾一 | SUSIT LAB</title>
+    <link>https://susitlab.github.io/author/%E6%9B%BE%E4%B8%80/</link>
+      <atom:link href="https://susitlab.github.io/author/%E6%9B%BE%E4%B8%80/index.xml" rel="self" type="application/rss+xml" />
+    <description>曾一</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://susitlab.github.io/author/%E6%9B%BE%E4%B8%80/avatar_hu5334cdff2d4adecc21707e1f21daa580_3450413_270x270_fill_q100_lanczos_center.jpg</url>
+      <title>曾一</title>
+      <link>https://susitlab.github.io/author/%E6%9B%BE%E4%B8%80/</link>
+    </image>
+    
+  </channel>
+</rss>
