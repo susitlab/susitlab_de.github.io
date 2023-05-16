@@ -5,11 +5,7 @@
     <link>https://susitlab.github.io/post/</link>
       <atom:link href="https://susitlab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-<<<<<<< HEAD
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 May 2023 09:33:02 +0800</lastBuildDate>
-=======
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 17:25:23 +0800</lastBuildDate>
->>>>>>> ba0c607bba0c4f4cac7d17c977a712aa72379489
     <image>
       <url>https://susitlab.github.io/media/logo_hu2e8d585f6837eebc313fa8e1649a8547_602025_300x300_fit_lanczos_3.png</url>
       <title>Latest News</title>
@@ -67,16 +63,6 @@
 
 &lt;/div&gt;
 祝贺课题组首批学生金高飞、徐萱、孟满成顺利通过硕士学位论文答辩，他们分别将赴美继续深造（罗彻斯特大学全奖PhD）和进入工业界（华为、联影），开始人生新的征程！&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>New Publications</title>
-      <link>https://susitlab.github.io/post/2023-03-01-new-publications/</link>
-      <pubDate>Wed, 01 Mar 2023 17:25:23 +0800</pubDate>
-      <guid>https://susitlab.github.io/post/2023-03-01-new-publications/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Gaofei Jin&lt;/strong&gt; has published a paper titled &amp;ldquo;A Signal-Domain Object Segmentation Method for Ultrasound and Photoacoustic Computed Tomography&amp;rdquo; in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (Volume: 70, Issue: 3, March 2023).&lt;/p&gt;
-&lt;p&gt;Details can be found following the &lt;a href=&#34;https://ieeexplore.ieee.org/document/9999250&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
